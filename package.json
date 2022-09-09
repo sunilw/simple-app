@@ -23,7 +23,7 @@
         "watch": "npm-watch",
         "serve": "http-server dist",
         "sass": "sass  ./src/sass/main.scss   dist/css/main.css",
-        "bundle": "esbuild src/js/index.js --sourcemap    --bundle  --loader:.js=jsx  --outfile=dist/js/bundle.js"
+        "bundle": "esbuild src/js/index.js --sourcemap --bundle  --loader:.js=jsx  --outfile=dist/js/bundle.js"
     },
     "author": "Bob",
     "license": "ISC",

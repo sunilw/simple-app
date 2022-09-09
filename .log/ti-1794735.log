@@ -1,0 +1,80 @@
+[20:49:35.755] Global cache location '/home/mantis/.cache/typescript/4.7', safe file path '/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/typingSafeList.json', types map path /home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/typesMap.json
+[20:49:35.755] Processing cache location '/home/mantis/.cache/typescript/4.7'
+[20:49:35.755] Trying to find '/home/mantis/.cache/typescript/4.7/package.json'...
+[20:49:35.757] Loaded content of '/home/mantis/.cache/typescript/4.7/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.608"},"devDependencies":{"@types/arr-diff":"^4.0.1","@types/arr-union":"^3.1.0","@types/brace-expansion":"^1.1.0","@types/browser-sync":"^2.26.3","@types/clone":"^2.1.1","@types/cloneable-readable":"^2.0.0","@types/css":"^0.0.33","@types/duplexer2":"^0.1.3","@types/glob-watcher":"^5.0.2","@types/gulp":"^4.0.9","@types/gulp-concat":"^0.0.33","@types/gulp-copy":"^0.0.4","@types/gulp-minify":"^3.1.1","@types/gulp-rename":"^2.0.1","@types/gulp-sass":"^5.0.0","@types/gulp-sourcemaps":"^0.0.35","@types/gulp-uglify":"^3.0.7","@types/inherits":"^0.0.30","@types/is-negated-glob":"^1.0.0","@types/lodash":"^4.14.182","@types/micromatch":"^4.0.2","@types/minimatch":"^3.0.5","@types/node":"^17.0.38","@types/normalize-path":"^3.0.0","@types/object-assign":"^4.0.30","@types/prettier":"^2.6.3","@types/react":"^18.0.17","@types/react-dom":"^18.0.6","@types/react-helmet":"^6.1.5","@types/readable-stream":"^2.3.13","@types/replace-ext":"^2.0.0","@types/rx":"^4.1.2","@types/sass":"^1.43.1","@types/through2":"^2.0.36","@types/uglify-js":"^3.13.3","@types/undertaker":"^1.2.8","@types/undertaker-registry":"^1.0.1","@types/util-deprecate":"^1.0.0","@types/vinyl":"^2.0.6","@types/vinyl-fs":"^2.4.12","@types/winjs":"^4.4.1","@types/xtend":"^4.0.4"}}
+[20:49:35.757] Loaded content of '/home/mantis/.cache/typescript/4.7/package-lock.json'
+[20:49:35.762] Adding entry into typings cache: 'arr-diff' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/arr-diff/index.d.ts'
+[20:49:35.763] Adding entry into typings cache: 'arr-union' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/arr-union/index.d.ts'
+[20:49:35.764] Adding entry into typings cache: 'brace-expansion' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/brace-expansion/index.d.ts'
+[20:49:35.765] Adding entry into typings cache: 'browser-sync' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/browser-sync/index.d.ts'
+[20:49:35.765] Adding entry into typings cache: 'clone' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/clone/index.d.ts'
+[20:49:35.766] Adding entry into typings cache: 'cloneable-readable' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/cloneable-readable/index.d.ts'
+[20:49:35.766] Adding entry into typings cache: 'css' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/css/index.d.ts'
+[20:49:35.767] Adding entry into typings cache: 'duplexer2' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/duplexer2/index.d.ts'
+[20:49:35.768] Adding entry into typings cache: 'glob-watcher' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/glob-watcher/index.d.ts'
+[20:49:35.768] Adding entry into typings cache: 'gulp' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/gulp/index.d.ts'
+[20:49:35.769] Adding entry into typings cache: 'gulp-concat' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/gulp-concat/index.d.ts'
+[20:49:35.770] Adding entry into typings cache: 'gulp-copy' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/gulp-copy/index.d.ts'
+[20:49:35.771] Adding entry into typings cache: 'gulp-minify' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/gulp-minify/index.d.ts'
+[20:49:35.771] Adding entry into typings cache: 'gulp-rename' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/gulp-rename/index.d.ts'
+[20:49:35.771] Adding entry into typings cache: 'gulp-sass' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/gulp-sass/index.d.ts'
+[20:49:35.772] Adding entry into typings cache: 'gulp-sourcemaps' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/gulp-sourcemaps/index.d.ts'
+[20:49:35.772] Adding entry into typings cache: 'gulp-uglify' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/gulp-uglify/index.d.ts'
+[20:49:35.773] Adding entry into typings cache: 'inherits' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/inherits/index.d.ts'
+[20:49:35.773] Adding entry into typings cache: 'is-negated-glob' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/is-negated-glob/index.d.ts'
+[20:49:35.774] Adding entry into typings cache: 'lodash' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/lodash/index.d.ts'
+[20:49:35.774] Adding entry into typings cache: 'micromatch' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/micromatch/index.d.ts'
+[20:49:35.775] Adding entry into typings cache: 'minimatch' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/minimatch/index.d.ts'
+[20:49:35.777] Adding entry into typings cache: 'node' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/node/index.d.ts'
+[20:49:35.778] Adding entry into typings cache: 'normalize-path' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/normalize-path/index.d.ts'
+[20:49:35.778] Adding entry into typings cache: 'object-assign' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/object-assign/index.d.ts'
+[20:49:35.779] Adding entry into typings cache: 'prettier' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/prettier/index.d.ts'
+[20:49:35.780] Adding entry into typings cache: 'react' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/react/index.d.ts'
+[20:49:35.781] Adding entry into typings cache: 'react-dom' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/react-dom/index.d.ts'
+[20:49:35.782] Adding entry into typings cache: 'react-helmet' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/react-helmet/index.d.ts'
+[20:49:35.783] Adding entry into typings cache: 'readable-stream' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/readable-stream/index.d.ts'
+[20:49:35.783] Adding entry into typings cache: 'replace-ext' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/replace-ext/index.d.ts'
+[20:49:35.783] Adding entry into typings cache: 'rx' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/rx/index.d.ts'
+[20:49:35.784] Adding entry into typings cache: 'sass' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/sass/index.d.ts'
+[20:49:35.784] Adding entry into typings cache: 'through2' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/through2/index.d.ts'
+[20:49:35.785] Adding entry into typings cache: 'uglify-js' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/uglify-js/index.d.ts'
+[20:49:35.785] Adding entry into typings cache: 'undertaker' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/undertaker/index.d.ts'
+[20:49:35.785] Adding entry into typings cache: 'undertaker-registry' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/undertaker-registry/index.d.ts'
+[20:49:35.786] Adding entry into typings cache: 'util-deprecate' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/util-deprecate/index.d.ts'
+[20:49:35.786] Adding entry into typings cache: 'vinyl' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/vinyl/index.d.ts'
+[20:49:35.786] Adding entry into typings cache: 'vinyl-fs' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/vinyl-fs/index.d.ts'
+[20:49:35.787] Adding entry into typings cache: 'winjs' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/winjs/index.d.ts'
+[20:49:35.787] Adding entry into typings cache: 'xtend' => '/home/mantis/.cache/typescript/4.7/node_modules/@types/xtend/index.d.ts'
+[20:49:35.787] Finished processing cache location '/home/mantis/.cache/typescript/4.7'
+[20:49:35.787] Process id: 1794778
+[20:49:35.787] NPM location: /home/mantis/.nvm/versions/node/v16.15.0/bin/npm (explicit '--npmLocation' not  provided)
+[20:49:35.787] validateDefaultNpmLocation: false
+[20:49:35.787] Npm config file: /home/mantis/.cache/typescript/4.7/package.json
+[20:49:35.787] Updating types-registry npm package...
+[20:49:35.787] Exec: /home/mantis/.nvm/versions/node/v16.15.0/bin/npm install --ignore-scripts types-registry@latest
+[20:49:36.599]     Succeeded. stdout:
+    
+    up to date, audited 91 packages in 720ms
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[20:49:36.599] Updated types-registry npm package
+[20:49:36.709] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es5.d.ts","/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.d.ts","/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2016.d.ts","/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.dom.d.ts","/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/home/mantis/web/tests/simple-app/src/js/index.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/mantis/web/tests/simple-app/src/js","kind":"discover"}
+[20:49:36.716] Loaded safelist from types map file '/home/mantis/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/typesMap.json'
+[20:49:36.716] Explicitly included types: []
+[20:49:36.717] Inferred typings from unresolved imports: []
+[20:49:36.717] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/mantis/web/tests/simple-app/src/js/bower_components","/home/mantis/web/tests/simple-app/src/js/node_modules"]}
+[20:49:36.717] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/mantis/web/tests/simple-app/src/js/bower_components","/home/mantis/web/tests/simple-app/src/js/node_modules"]}
+[20:49:36.717] DirectoryWatcher:: Added:: WatchInfo: /home/mantis/web/tests/simple-app/src/js/bower_components
+[20:49:36.717] DirectoryWatcher:: Added:: WatchInfo: /home/mantis/web/tests/simple-app/src/js/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[20:49:36.718] Elapsed:: 0.7102859914302826ms DirectoryWatcher:: Added:: WatchInfo: /home/mantis/web/tests/simple-app/src/js/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[20:49:36.718] DirectoryWatcher:: Added:: WatchInfo: /home/mantis/web/tests/simple-app/src/js/node_modules
+[20:49:36.718] DirectoryWatcher:: Added:: WatchInfo: /home/mantis/web/tests/simple-app/src/js/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[20:49:36.718] Elapsed:: 0.052751004695892334ms DirectoryWatcher:: Added:: WatchInfo: /home/mantis/web/tests/simple-app/src/js/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[20:49:36.718] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[20:49:36.718] Response has been sent.
+[20:49:36.718] No new typings were requested as a result of typings discovery
