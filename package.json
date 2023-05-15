@@ -12,9 +12,8 @@
         },
         "bundle": {
             "patterns": [
-                "./src/js"
-            ],
-            "extensions": "js"
+                "./src/js/*"
+            ]
         }
     },
     "scripts": {
@@ -26,24 +25,21 @@
         "bundle": "esbuild src/js/index.js --sourcemap --bundle  --loader:.js=jsx  --outfile=dist/js/bundle.js"
     },
     "author": "Bob",
-    "license": "ISC",
+    "license": "ICS",
     "devDependencies": {
         "browser-sync": "^2.27.7",
         "browsersync": "^0.0.1-security",
+        "bulma": "^0.9.4",
         "concurrently": "^7.0.0",
-        "esbuild": "^0.14.11",
+        "esbuild": "^0.17.18",
         "html-includes": "^4.4.1",
         "html-minifier": "^4.0.0",
         "http-server": "^14.1.0",
-        "indium": "^5.0.0",
         "npm-watch": "^0.11.0",
-        "react": "^17.0.2",
-        "react-dom": "^17.0.2",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
         "readable-stream": "^3.6.0",
-        "sass": "^1.48.0",
+        "sass": "^1.62.1",
         "stream-combiner2": "^1.1.1"
-    },
-    "dependencies": {
-        "bulma": "^0.9.3"
     }
 }
