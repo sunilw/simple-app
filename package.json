@@ -1,5 +1,5 @@
 {
-    "name": "react tut",
+    "name": "simple app",
     "version": "0.0.1",
     "description": "Steps towards a more sufficient build pipeline",
     "main": "index.js",
@@ -22,6 +22,7 @@
         "watch": "npm-watch",
         "serve": "http-server dist",
         "sass": "sass  ./src/sass/main.scss   dist/css/main.css",
+	"html-minify": "html-minifier --input-dir src/html --output-dir dist --file-ext html --remove-comments --collapse-whitespace",
         "bundle": "esbuild src/js/index.js --sourcemap --bundle  --loader:.js=jsx  --outfile=dist/js/bundle.js"
     },
     "author": "Bob",
