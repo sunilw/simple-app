@@ -1,5 +1,5 @@
 {
-    "name": "simple app",
+    "name": "react tut",
     "version": "0.0.1",
     "description": "Steps towards a more sufficient build pipeline",
     "main": "index.js",
@@ -10,6 +10,16 @@
             ],
             "extensions": "scss"
         },
+
+	"html-minify": {
+	    "patterns":
+	    [
+		"./src/html"
+	    ],
+	    "extensions" : "html"
+
+	},
+
         "bundle": {
             "patterns": [
                 "./src/js/*"
