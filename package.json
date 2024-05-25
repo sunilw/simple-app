@@ -38,19 +38,18 @@
     "author": "Bob",
     "license": "ICS",
     "devDependencies": {
-        "browser-sync": "^2.29.3",
+        "browser-sync": "3.0.2",
         "browsersync": "^0.0.1-security",
-        "bulma": "^0.9.4",
         "concurrently": "^8.2.0",
-        "esbuild": "^0.18.17",
+        "esbuild": "0.21.4",
         "html-includes": "^5.0.0",
         "html-minifier": "^4.0.0",
         "http-server": "^14.1.0",
-        "npm-watch": "^0.11.0",
-        "react": "^18.2.0",
-        "react-dom": "^18.2.0",
-        "readable-stream": "^4.4.2",
-        "sass": "^1.62.1",
+        "npm-watch": "0.13.0",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1",
+        "readable-stream": "^4.5.2",
+        "sass": "^1.77.1",
         "stream-combiner2": "^1.1.1"
     }
 }
