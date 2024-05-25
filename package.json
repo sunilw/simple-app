@@ -1,8 +1,9 @@
 {
-    "name": "react tut",
+    "name": "grid",
     "version": "0.0.1",
     "description": "Steps towards a more sufficient build pipeline",
     "main": "index.js",
+    
     "watch": {
         "sass": {
             "patterns": [
@@ -11,19 +12,18 @@
             "extensions": "scss"
         },
 
-	"html-minify": {
-	    "patterns":
-	    [
+	"html": {
+	    "patterns" : [
 		"./src/html"
 	    ],
-	    "extensions" : "html"
-
+	    "extensions": "html"
 	},
-
+	
         "bundle": {
             "patterns": [
-                "./src/js/*"
-            ]
+                "./src/js"
+            ],
+            "extensions": "js"
         }
     },
     "scripts": {
@@ -31,25 +31,25 @@
         "bs": "browser-sync start --server  dist  --files \" ./dist\" ",
         "watch": "npm-watch",
         "serve": "http-server dist",
+	"html": "html-minifier --output-dir dist --input-dir src/html",
         "sass": "sass  ./src/sass/main.scss   dist/css/main.css",
-	"html-minify": "html-minifier --input-dir src/html --output-dir dist --file-ext html --remove-comments --collapse-whitespace",
         "bundle": "esbuild src/js/index.js --sourcemap --bundle  --loader:.js=jsx  --outfile=dist/js/bundle.js"
     },
     "author": "Bob",
-    "license": "ICS",
+    "license": "ISC",
     "devDependencies": {
-        "browser-sync": "3.0.2",
+        "browser-sync": "^2.27.7",
         "browsersync": "^0.0.1-security",
-        "concurrently": "^8.2.0",
-        "esbuild": "0.21.4",
-        "html-includes": "^5.0.0",
+        "concurrently": "^7.6.0",
+        "esbuild": "^0.15.15",
+        "html-includes": "^4.4.2",
         "html-minifier": "^4.0.0",
         "http-server": "^14.1.0",
-        "npm-watch": "0.13.0",
-        "react": "^18.3.1",
-        "react-dom": "^18.3.1",
-        "readable-stream": "^4.5.2",
-        "sass": "^1.77.1",
+        "npm-watch": "^0.11.0",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "readable-stream": "^3.6.0",
+        "sass": "^1.56.1",
         "stream-combiner2": "^1.1.1"
     }
 }
